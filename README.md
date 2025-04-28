@@ -1,1 +1,1 @@
-This repository was created based on simple algorithms connected to data structures such as binary and linear searches, lists, stacks, queues among others.Have fun
+This repository was created based on simple algorithms connected to data structures such as binary and linear searches, sorting algorithms like the merge sort, quick sort, selection, insertion and bubble sorts among others.Have fun
